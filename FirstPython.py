@@ -1,4 +1,4 @@
-print('gang')
+print('weeee')
 print('aaliyan kapadia')
 
 answer = input('Name?')  # Asks for name
